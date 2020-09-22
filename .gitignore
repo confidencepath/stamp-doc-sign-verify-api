@@ -1,0 +1,7 @@
+
+*.cmd
+stamp-doc-sign-verify-api/mvnw
+stamp-doc-sign-verify-api/.mvn/wrapper/MavenWrapperDownloader.java
+*.properties
+stamp-doc-sign-verify-api/.mvn/wrapper/maven-wrapper.jar
+*.jar
